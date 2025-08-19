@@ -1,0 +1,63 @@
+name: Mirror to Public (sanitized)
+
+on:
+  push:
+    branches: [ main, master ]
+  workflow_dispatch: {}
+
+jobs:
+  mirror:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout private repo
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Remove sensitive paths
+        run: |
+          set -euxo pipefail
+          rm -rf secrets || true
+          rm -rf .env || true
+          rm -rf .env.* || true
+          find . -type f \( -name "*.pem" -o -name "*.key" -o -name "*.p12" -o -name "*.crt" -o -name "*.der" \) -delete || true
+          rm -rf docs/private || true
+
+      - name: Sanity check (no tracked secret-like files)
+        run: |
+          set -e
+          if git ls-files | grep -E '(^|/)\.env($|\.|/)|\.pem$|\.key$|\.p12$|\.crt$|\.der$' ; then
+            echo "❌ Secret-like tracked file found. Aborting mirror."
+            exit 1
+          fi
+          echo "✅ Sanity check passed"
+
+      - name: Prepare mirror working tree
+        run: |
+          set -eux
+          mkdir -p /tmp/mirror
+          rsync -a --delete --exclude ".git" ./ /tmp/mirror/
+          ls -la /tmp/mirror | sed 's/^/MIRROR: /'
+
+      - name: Configure SSH deploy key
+        env:
+          MIRROR_SSH_KEY: ${{ secrets.MIRROR_SSH_KEY }}
+        run: |
+          set -eux
+          mkdir -p ~/.ssh
+          printf '%s\n' "${MIRROR_SSH_KEY}" > ~/.ssh/id_ed25519
+          sed -i 's/\r$//' ~/.ssh/id_ed25519
+          chmod 600 ~/.ssh/id_ed25519
+          ssh-keyscan github.com >> ~/.ssh/known_hosts
+
+      - name: Push to public mirror via SSH
+        run: |
+          set -eux
+          cd /tmp/mirror
+          git init
+          git config user.name "asktrippy-mirror-bot"
+          git config user.email "mirror@users.noreply.github.com"
+          git add -A
+          git commit -m "Mirror: $GITHUB_SHA" || true
+          git remote add origin git@github.com:dickytunes/asktrippy-mirror.git
+          git push --force origin HEAD:main

@@ -1,0 +1,2717 @@
+{
+  "211": [
+    "Abruzzo Restaurant",
+    "Cretan Restaurant"
+  ],
+  "5": [
+    "Addiction Treatment Center",
+    "Domestic Abuse Treatment Center"
+  ],
+  "115": [
+    "Adult Education",
+    "Education"
+  ],
+  "69": [
+    "Advertising Agency",
+    "Online Advertising Service",
+    "Print, TV, Radio and Outdoor Advertising Service",
+    "Promotional Item Service",
+    "Search Engine Marketing and Optimization Service"
+  ],
+  "186": [
+    "Afghan Restaurant",
+    "Iraqi Restaurant",
+    "Syrian Restaurant"
+  ],
+  "128": [
+    "Agriculture and Forestry Service",
+    "Agriturismo",
+    "Farm",
+    "Farmers Market"
+  ],
+  "28": [
+    "Airfield",
+    "Plane"
+  ],
+  "117": [
+    "Airport",
+    "Airport Service",
+    "Airport Terminal",
+    "International Airport"
+  ],
+  "86": [
+    "Airport Food Court",
+    "Food Court"
+  ],
+  "118": [
+    "Airport Tram Station",
+    "Light Rail Station",
+    "Metro Station",
+    "Rail Station",
+    "Tram Station"
+  ],
+  "232": [
+    "Alsatian Restaurant",
+    "Aosta Restaurant",
+    "Auvergne Restaurant",
+    "Betawinese Restaurant",
+    "Bunsik Restaurant",
+    "Fondue Restaurant",
+    "Henan Restaurant",
+    "Janguh Restaurant",
+    "Kaiseki Restaurant",
+    "Kokoreç Restaurant",
+    "Kumpir Restaurant",
+    "Kumru Restaurant",
+    "Kushikatsu Restaurant",
+    "Ligurian Restaurant",
+    "Manadonese Restaurant",
+    "Molise Restaurant",
+    "Parsi Restaurant",
+    "Patsa Restaurant",
+    "Provençal Restaurant",
+    "Puglia Restaurant",
+    "Restaurant",
+    "Rhenisch Restaurant",
+    "Satay Restaurant",
+    "Som Tum Restaurant",
+    "Teishoku Restaurant",
+    "Tuscan Restaurant",
+    "Udupi Restaurant",
+    "Unagi Restaurant",
+    "Varenyky Restaurant"
+  ],
+  "179": [
+    "Alternative Medicine Clinic",
+    "Healthcare Clinic",
+    "Medical Center"
+  ],
+  "58": [
+    "Ambulance Service",
+    "Emergency Room",
+    "Emergency Service",
+    "Rescue Service"
+  ],
+  "185": [
+    "American Restaurant",
+    "New American Restaurant"
+  ],
+  "32": [
+    "Amusement Park",
+    "Carnival"
+  ],
+  "159": [
+    "Anesthesiologist",
+    "Dermatologist",
+    "Pathologist"
+  ],
+  "199": [
+    "Antique Store",
+    "Vintage and Thrift Store"
+  ],
+  "162": [
+    "Apres Ski Bar",
+    "Ski Chalet",
+    "Ski Lodge",
+    "Ski Resort and Area",
+    "Ski Store",
+    "Ski Trail"
+  ],
+  "181": [
+    "Armenian Restaurant",
+    "Turkish Coffeehouse",
+    "Turkish Home Cooking Restaurant",
+    "Turkish Restaurant"
+  ],
+  "205": [
+    "Art Gallery",
+    "Art Museum",
+    "Art Studio",
+    "Exhibit",
+    "History Museum",
+    "Museum",
+    "Public Art"
+  ],
+  "60": [
+    "Assisted Living",
+    "Assisted Living Service"
+  ],
+  "136": [
+    "Athletic Field",
+    "Sporting Event"
+  ],
+  "167": [
+    "Auditorium",
+    "College Auditorium"
+  ],
+  "223": [
+    "Austrian Restaurant",
+    "Bavarian Restaurant",
+    "German Pop-Up Restaurant",
+    "German Restaurant"
+  ],
+  "182": [
+    "Automotive Repair Shop",
+    "Automotive Retail",
+    "Automotive Shop",
+    "Motorsports Store"
+  ],
+  "18": [
+    "BBQ Joint",
+    "Bratwurst Joint",
+    "Burger Joint",
+    "Currywurst Joint",
+    "Sandwich Spot"
+  ],
+  "142": [
+    "Badminton Court",
+    "College Tennis Court",
+    "Tennis",
+    "Tennis Court"
+  ],
+  "122": [
+    "Baggage Claim",
+    "Baggage Locker",
+    "Luggage Store"
+  ],
+  "56": [
+    "Ballroom",
+    "Dance Hall",
+    "Dance Store",
+    "Dance Studio"
+  ],
+  "224": [
+    "Bangladeshi Restaurant",
+    "Bengali Restaurant"
+  ],
+  "82": [
+    "Bank",
+    "Banking and Finance"
+  ],
+  "197": [
+    "Bar",
+    "Hookah Bar",
+    "Sake Bar",
+    "Tiki Bar"
+  ],
+  "16": [
+    "Barbershop",
+    "Hair Removal Service",
+    "Hair Salon",
+    "Nail Salon"
+  ],
+  "140": [
+    "Baseball",
+    "Baseball Field"
+  ],
+  "139": [
+    "Baseball Club",
+    "Baseball Stadium"
+  ],
+  "76": [
+    "Basketball",
+    "Basketball Club",
+    "Basketball Court",
+    "Basketball Stadium",
+    "College Basketball Court"
+  ],
+  "215": [
+    "Basque Restaurant",
+    "Catalan Restaurant",
+    "Franconian Restaurant"
+  ],
+  "19": [
+    "Bath House",
+    "Bathing Area",
+    "Bathroom Contractor",
+    "Public Bathroom"
+  ],
+  "106": [
+    "Beach",
+    "Nudist Beach"
+  ],
+  "8": [
+    "Bed and Breakfast",
+    "Breakfast Spot"
+  ],
+  "198": [
+    "Beer Bar",
+    "Cocktail Bar"
+  ],
+  "149": [
+    "Beer Festival",
+    "Beer Garden"
+  ],
+  "196": [
+    "Beer Store",
+    "Liquor Store"
+  ],
+  "233": [
+    "Beijing Restaurant",
+    "Hunan Restaurant",
+    "Jiangsu Restaurant",
+    "Jiangxi Restaurant",
+    "Shandong Restaurant",
+    "Shanghai Restaurant",
+    "Szechuan Restaurant",
+    "Tianjin Restaurant",
+    "Yunnan Restaurant",
+    "Zhejiang Restaurant"
+  ],
+  "209": [
+    "Belgian Restaurant",
+    "Eastern European Restaurant",
+    "Modern European Restaurant"
+  ],
+  "39": [
+    "Betting Shop",
+    "Lottery Retailer"
+  ],
+  "31": [
+    "Bicycle Store",
+    "Bike Rental"
+  ],
+  "17": [
+    "Bingo Center",
+    "Casino"
+  ],
+  "213": [
+    "Bistro",
+    "Botanero",
+    "Caterer",
+    "Cemevi",
+    "Cigkofte Place",
+    "Creperie",
+    "Deli",
+    "Dizi Place",
+    "Estaminet",
+    "Friterie",
+    "Gastropub",
+    "Gozleme Place",
+    "Jegaraki",
+    "Kafenio",
+    "Lodging",
+    "Meadery",
+    "Ouzeri",
+    "Pastelaria",
+    "Piadineria",
+    "Pide Place",
+    "Pizzeria",
+    "Podiatrist",
+    "Söğüş Place",
+    "Terreiro",
+    "Trattoria",
+    "Well",
+    "Wholesaler",
+    "Çöp Şiş Place"
+  ],
+  "41": [
+    "Boat Rental",
+    "Canoe and Kayak Rental"
+  ],
+  "42": [
+    "Boat or Ferry",
+    "Harbor or Marina"
+  ],
+  "152": [
+    "Bookstore",
+    "College Bookstore",
+    "College Library",
+    "Library",
+    "Used Bookstore"
+  ],
+  "206": [
+    "Bosnian Restaurant",
+    "Bulgarian Restaurant"
+  ],
+  "165": [
+    "Botanical Garden",
+    "Garden",
+    "Garden Center"
+  ],
+  "200": [
+    "Boutique",
+    "Convenience Store",
+    "Department Store",
+    "Discount Store",
+    "Gift Store",
+    "Gourmet Store",
+    "Kuruyemişçi Shop",
+    "Miscellaneous Store",
+    "Outlet Store",
+    "Pastry Shop",
+    "Retail",
+    "Running Store",
+    "Smoothie Shop",
+    "Souvenir Store",
+    "Stoop Sale",
+    "Turşucu Shop"
+  ],
+  "0": [
+    "Bowling Alley",
+    "Bowling Green"
+  ],
+  "218": [
+    "Brazilian Restaurant",
+    "Central Brazilian Restaurant",
+    "Colombian Restaurant",
+    "Northeastern Brazilian Restaurant",
+    "Northern Brazilian Restaurant",
+    "Peruvian Restaurant",
+    "Portuguese Restaurant",
+    "Southeastern Brazilian Restaurant",
+    "Southern Brazilian Restaurant",
+    "Venezuelan Restaurant"
+  ],
+  "38": [
+    "Buddhist Temple",
+    "Confucian Temple",
+    "Hindu Temple",
+    "Monastery",
+    "Shrine",
+    "Sikh Temple",
+    "Temple"
+  ],
+  "230": [
+    "Burmese Restaurant",
+    "Indonesian Restaurant",
+    "Javanese Restaurant"
+  ],
+  "113": [
+    "Bus Line",
+    "Bus Station",
+    "Bus Stop"
+  ],
+  "62": [
+    "Business Broker",
+    "Stock Broker"
+  ],
+  "151": [
+    "Business Service",
+    "Business and Professional Services"
+  ],
+  "150": [
+    "Business and Strategy Consulting Office",
+    "Management Consultant",
+    "Market Research and Consulting Service"
+  ],
+  "130": [
+    "Cabin",
+    "Lodge"
+  ],
+  "97": [
+    "Cafeteria",
+    "College Cafeteria",
+    "Corporate Cafeteria"
+  ],
+  "231": [
+    "Cambodian Restaurant",
+    "Mongolian Restaurant"
+  ],
+  "93": [
+    "Camera Store",
+    "Photographer",
+    "Photography Lab",
+    "Photography Service",
+    "Photography Studio"
+  ],
+  "36": [
+    "Campaign Office",
+    "Government Lobbyist"
+  ],
+  "15": [
+    "Campground",
+    "Summer Camp"
+  ],
+  "52": [
+    "Canal",
+    "Canal Lock"
+  ],
+  "83": [
+    "Cannabis Store",
+    "Smoke Shop",
+    "Tobacco Store"
+  ],
+  "234": [
+    "Cantonese Restaurant",
+    "Chinese Restaurant"
+  ],
+  "163": [
+    "Car Dealership",
+    "Classic and Antique Car Dealership",
+    "New Car Dealership",
+    "Used Car Dealership"
+  ],
+  "37": [
+    "Castle",
+    "Palace"
+  ],
+  "123": [
+    "Cemetery",
+    "Funeral Home",
+    "Memorial Site",
+    "Monument"
+  ],
+  "190": [
+    "Champagne Bar",
+    "Whisky Bar",
+    "Wine Bar",
+    "Wine Store"
+  ],
+  "202": [
+    "Children's Clothing Store",
+    "Clothing Store"
+  ],
+  "90": [
+    "Chocolate Store",
+    "Cupcake Shop",
+    "Dessert Shop"
+  ],
+  "25": [
+    "Church",
+    "Religious School"
+  ],
+  "9": [
+    "Circus",
+    "Circus School"
+  ],
+  "94": [
+    "City",
+    "Town"
+  ],
+  "95": [
+    "City Hall",
+    "Town Hall"
+  ],
+  "104": [
+    "Club House",
+    "Night Club"
+  ],
+  "175": [
+    "Coffee Shop",
+    "Corporate Coffee Shop"
+  ],
+  "193": [
+    "College Academic Building",
+    "College Administrative Building",
+    "College Arts Building",
+    "College Communications Building",
+    "College Engineering Building",
+    "College History Building",
+    "College Residence Hall",
+    "College Science Building",
+    "College Technology Building"
+  ],
+  "66": [
+    "College Cricket Pitch",
+    "Cricket Ground"
+  ],
+  "141": [
+    "College Football Field",
+    "Football",
+    "Football Field"
+  ],
+  "98": [
+    "College Gym",
+    "Gym",
+    "Gym Pool",
+    "Gym and Studio",
+    "Outdoor Gym"
+  ],
+  "89": [
+    "College Hockey Rink",
+    "Hockey",
+    "Hockey Club",
+    "Hockey Field",
+    "Hockey Rink",
+    "Hockey Stadium"
+  ],
+  "195": [
+    "College Lab",
+    "Laboratory",
+    "Research Laboratory",
+    "Research Station"
+  ],
+  "191": [
+    "College Rec Center",
+    "Community College",
+    "Student Center"
+  ],
+  "145": [
+    "College Soccer Field",
+    "Soccer",
+    "Soccer Field"
+  ],
+  "146": [
+    "College Stadium",
+    "Football Stadium",
+    "Rugby Stadium",
+    "Soccer Stadium",
+    "Stadium"
+  ],
+  "61": [
+    "College Track",
+    "Go Kart Track",
+    "Race Track",
+    "Racecourse",
+    "Running and Track",
+    "Track"
+  ],
+  "192": [
+    "College and University",
+    "General College & University",
+    "University"
+  ],
+  "155": [
+    "Commercial Real Estate Developer",
+    "Property Management Office",
+    "Real Estate Agency",
+    "Real Estate Appraiser",
+    "Real Estate Development and Title Company",
+    "Real Estate Service"
+  ],
+  "73": [
+    "Community and Government",
+    "Government Department",
+    "State",
+    "States and Municipalities"
+  ],
+  "84": [
+    "Computer Repair Service",
+    "Repair Service"
+  ],
+  "80": [
+    "Computers and Electronics Retail",
+    "Electronics Store",
+    "Hardware Store"
+  ],
+  "72": [
+    "Conference",
+    "Conference Room",
+    "Meeting Room"
+  ],
+  "57": [
+    "Construction",
+    "Engineer",
+    "General Contractor",
+    "Sewer Contractor"
+  ],
+  "71": [
+    "Convention",
+    "Convention Center"
+  ],
+  "154": [
+    "Corporate Housing Agency",
+    "Housing Authority",
+    "Housing Development"
+  ],
+  "222": [
+    "Corsican Restaurant",
+    "Sardinian Restaurant"
+  ],
+  "178": [
+    "Cosmetics Store",
+    "Perfume Store"
+  ],
+  "201": [
+    "Costume Store",
+    "Fashion Accessories Store",
+    "Fashion Retail",
+    "Lingerie Store"
+  ],
+  "55": [
+    "Country Club",
+    "Country Dance Club"
+  ],
+  "85": [
+    "Courthouse",
+    "Squash Court"
+  ],
+  "23": [
+    "Credit Counseling and Bankruptcy Service",
+    "Loans Agency"
+  ],
+  "219": [
+    "Czech Restaurant",
+    "Hungarian Restaurant",
+    "Slovak Restaurant"
+  ],
+  "74": [
+    "Dam",
+    "Reservoir"
+  ],
+  "153": [
+    "Dentist",
+    "Oral Surgeon"
+  ],
+  "135": [
+    "Design Studio",
+    "Interior Designer"
+  ],
+  "121": [
+    "Diner",
+    "Dining and Drinking"
+  ],
+  "50": [
+    "Disc Golf",
+    "Disc Golf Course"
+  ],
+  "114": [
+    "Dive Bar",
+    "Dive Spot",
+    "Dive Store"
+  ],
+  "171": [
+    "Doctor's Office",
+    "Family Medicine Doctor",
+    "General Surgeon",
+    "Internal Medicine Doctor",
+    "Orthopedic Surgeon",
+    "Physician"
+  ],
+  "43": [
+    "Doors and Windows Contractor",
+    "Garage Door Supplier"
+  ],
+  "96": [
+    "Drugstore",
+    "Pharmacy"
+  ],
+  "13": [
+    "Dry Cleaner",
+    "Professional Cleaning Service"
+  ],
+  "67": [
+    "Electrical Equipment Supplier",
+    "Electrician",
+    "Industrial Equipment Supplier",
+    "Metals Supplier",
+    "Scientific Equipment Supplier"
+  ],
+  "116": [
+    "Elementary School",
+    "High School",
+    "Middle School",
+    "Preschool",
+    "Primary and Secondary School",
+    "Private School"
+  ],
+  "214": [
+    "Empada House",
+    "Fraternity House",
+    "Pelmeni House",
+    "Sorority House"
+  ],
+  "131": [
+    "Entertainment Agency",
+    "Entertainment Service",
+    "General Entertainment"
+  ],
+  "132": [
+    "Entertainment Event",
+    "Event",
+    "Event Service",
+    "Festival",
+    "Other Event"
+  ],
+  "34": [
+    "Equipment Rental Service",
+    "Rental Car Location",
+    "Rental Service",
+    "Vacation Rental"
+  ],
+  "133": [
+    "Event Space",
+    "Outdoor Event Space"
+  ],
+  "75": [
+    "Eyecare Store",
+    "Lighting Store",
+    "Sunglasses Store"
+  ],
+  "103": [
+    "Factory",
+    "Machine Shop",
+    "Manufacturer"
+  ],
+  "24": [
+    "Fair",
+    "Street Fair",
+    "Trade Fair",
+    "Trade School"
+  ],
+  "168": [
+    "Fast Food Restaurant",
+    "Hotpot Restaurant"
+  ],
+  "183": [
+    "Financial or Legal Service",
+    "Law Office",
+    "Law School",
+    "Legal Service"
+  ],
+  "160": [
+    "Fish Market",
+    "Fish Taverna"
+  ],
+  "161": [
+    "Fishing Area",
+    "Fishing Store"
+  ],
+  "110": [
+    "Food Distribution Center",
+    "Food Stand",
+    "Food and Beverage Retail",
+    "Food and Beverage Service",
+    "Health Food Store",
+    "Street Food Gathering"
+  ],
+  "124": [
+    "Forest",
+    "Tree",
+    "Tree Service"
+  ],
+  "21": [
+    "Fountain",
+    "Waterfall"
+  ],
+  "210": [
+    "French Restaurant",
+    "Southwestern French Restaurant"
+  ],
+  "22": [
+    "Fried Chicken Joint",
+    "Peruvian Roast Chicken Joint"
+  ],
+  "33": [
+    "Frozen Yogurt Shop",
+    "Waffle Shop"
+  ],
+  "87": [
+    "Furniture and Home Store",
+    "Home Appliance Store",
+    "Housewares Store"
+  ],
+  "27": [
+    "Gaming Cafe",
+    "VR Cafe"
+  ],
+  "108": [
+    "General Travel",
+    "Travel Agency",
+    "Travel and Transportation"
+  ],
+  "49": [
+    "Golf",
+    "Golf Club",
+    "Golf Course",
+    "Golf Store",
+    "Mini Golf Course"
+  ],
+  "189": [
+    "Greek Restaurant",
+    "Modern Greek Restaurant",
+    "Roman Restaurant"
+  ],
+  "129": [
+    "Grilled Meat Restaurant",
+    "Steakhouse"
+  ],
+  "194": [
+    "Grocery Store",
+    "Supermarket"
+  ],
+  "35": [
+    "Gun Range",
+    "Gun Store"
+  ],
+  "99": [
+    "Gymnastics",
+    "Gymnastics Center"
+  ],
+  "7": [
+    "Hill",
+    "Mountain",
+    "Mountain Hut"
+  ],
+  "203": [
+    "Himalayan Restaurant",
+    "Tibetan Restaurant"
+  ],
+  "59": [
+    "Home Health Care Service",
+    "Home Improvement Service",
+    "Home Service"
+  ],
+  "180": [
+    "Hospital",
+    "Hospital Unit"
+  ],
+  "147": [
+    "Hostel",
+    "Hotel",
+    "Inn",
+    "Motel"
+  ],
+  "148": [
+    "Hotel Pool",
+    "Pool Hall"
+  ],
+  "134": [
+    "Hunting Area",
+    "Hunting Supply Store"
+  ],
+  "225": [
+    "Hyderabadi Restaurant",
+    "Rajasthani Restaurant"
+  ],
+  "105": [
+    "Import and Export Service",
+    "Shipping, Freight, and Material Transportation Service"
+  ],
+  "226": [
+    "Indian Restaurant",
+    "South Indian Restaurant"
+  ],
+  "170": [
+    "Indie Movie Theater",
+    "Indie Theater"
+  ],
+  "187": [
+    "Irani Cafe",
+    "Pakistani Restaurant",
+    "Persian Restaurant"
+  ],
+  "164": [
+    "Irish Pub",
+    "Pub",
+    "Scottish Restaurant"
+  ],
+  "172": [
+    "Israeli Restaurant",
+    "Jewish Restaurant"
+  ],
+  "220": [
+    "Italian Restaurant",
+    "Sicilian Restaurant"
+  ],
+  "229": [
+    "Japanese Family Restaurant",
+    "Japanese Restaurant"
+  ],
+  "29": [
+    "Karaoke Bar",
+    "Karaoke Box"
+  ],
+  "173": [
+    "Kitchen Supply Store",
+    "Packaging Supply Store"
+  ],
+  "188": [
+    "Kosher Restaurant",
+    "Kosher Store"
+  ],
+  "51": [
+    "Lake",
+    "River"
+  ],
+  "119": [
+    "Landmarks and Outdoors",
+    "Other Great Outdoors"
+  ],
+  "217": [
+    "Latin American Restaurant",
+    "Mexican Restaurant",
+    "Spanish Restaurant"
+  ],
+  "11": [
+    "Laundromat",
+    "Laundry Service"
+  ],
+  "109": [
+    "Law Enforcement and Public Safety",
+    "Security and Safety"
+  ],
+  "158": [
+    "Leather Goods Store",
+    "Leather Supplier"
+  ],
+  "174": [
+    "Lebanese Restaurant",
+    "Yemeni Restaurant"
+  ],
+  "176": [
+    "Market",
+    "Marketplace"
+  ],
+  "127": [
+    "Meat and Seafood Store",
+    "Seafood Restaurant"
+  ],
+  "107": [
+    "Media Agency",
+    "Newsagent",
+    "Newsstand"
+  ],
+  "126": [
+    "Mental Health Clinic",
+    "Mental Health Service"
+  ],
+  "1": [
+    "Military",
+    "Military Base"
+  ],
+  "68": [
+    "Mobile Company",
+    "Mobile Phone Store"
+  ],
+  "120": [
+    "Motor Scooter Dealership",
+    "Motorcycle Dealership",
+    "Motorcycle Repair Shop"
+  ],
+  "169": [
+    "Movie Theater",
+    "Theater"
+  ],
+  "91": [
+    "Music Festival",
+    "Music Store",
+    "Music Venue"
+  ],
+  "77": [
+    "National Park",
+    "Natural Park",
+    "Park",
+    "Playground",
+    "RV Park",
+    "Recreation Center",
+    "State or Provincial Park",
+    "Trailer Park",
+    "Urban Park",
+    "Water Park"
+  ],
+  "88": [
+    "Non-Profit Organization",
+    "Organization"
+  ],
+  "227": [
+    "North Indian Restaurant",
+    "Northeast Indian Restaurant"
+  ],
+  "12": [
+    "Observatory",
+    "Planetarium"
+  ],
+  "177": [
+    "Office",
+    "Office Building"
+  ],
+  "166": [
+    "Ophthalmologist",
+    "Optometrist"
+  ],
+  "64": [
+    "Outdoor Sculpture",
+    "Sculpture Garden"
+  ],
+  "184": [
+    "Outlet Mall",
+    "Shopping Mall",
+    "Shopping Plaza"
+  ],
+  "157": [
+    "Pedestrian Plaza",
+    "Plaza"
+  ],
+  "92": [
+    "Pet Café",
+    "Pet Grooming Service",
+    "Pet Service",
+    "Pet Sitting and Boarding Service",
+    "Pet Supplies Store",
+    "Veterinarian"
+  ],
+  "100": [
+    "Physical Therapy Clinic",
+    "Rehabilitation Center",
+    "Sports Medicine Clinic"
+  ],
+  "14": [
+    "Picnic Area",
+    "Picnic Shelter"
+  ],
+  "45": [
+    "Pier",
+    "Waterfront"
+  ],
+  "63": [
+    "Plastics Supplier",
+    "Rubber Supplier"
+  ],
+  "221": [
+    "Polish Restaurant",
+    "Silesian Restaurant",
+    "Tatar Restaurant"
+  ],
+  "204": [
+    "Poutine Restaurant",
+    "Russian Restaurant"
+  ],
+  "4": [
+    "Power Plant",
+    "Renewable Energy Service"
+  ],
+  "20": [
+    "Prayer Room",
+    "Spiritual Center"
+  ],
+  "112": [
+    "Psychiatrist",
+    "Psychologist"
+  ],
+  "111": [
+    "Public Transportation",
+    "Transportation Service"
+  ],
+  "54": [
+    "Public and Social Service",
+    "Senior Citizen Service",
+    "Social Services Organization"
+  ],
+  "216": [
+    "Puerto Rican Restaurant",
+    "Salvadoran Restaurant"
+  ],
+  "143": [
+    "Racquet Sport Club",
+    "Racquet Sports",
+    "Racquetball Club"
+  ],
+  "26": [
+    "Radio Station",
+    "TV Station"
+  ],
+  "44": [
+    "Rafting Outfitter",
+    "Rafting Spot"
+  ],
+  "6": [
+    "Recycling Facility",
+    "Waste Management Service"
+  ],
+  "47": [
+    "Roller Rink",
+    "Skating",
+    "Skating Rink"
+  ],
+  "48": [
+    "Roof Deck",
+    "Rooftop Bar"
+  ],
+  "137": [
+    "Rugby",
+    "Rugby Pitch"
+  ],
+  "208": [
+    "Shaanxi Restaurant",
+    "Shabu-Shabu Restaurant"
+  ],
+  "81": [
+    "Shoe Repair Service",
+    "Shoe Store"
+  ],
+  "46": [
+    "Skate Park",
+    "Skate Store"
+  ],
+  "2": [
+    "Skydiving Center",
+    "Skydiving Drop Zone"
+  ],
+  "125": [
+    "Soccer Store",
+    "Sporting Goods Retail"
+  ],
+  "10": [
+    "Software Company",
+    "Utility Company"
+  ],
+  "207": [
+    "South American Restaurant",
+    "Southern Food Restaurant"
+  ],
+  "212": [
+    "Sukiyaki Restaurant",
+    "Yakitori Restaurant",
+    "Yoshoku Restaurant"
+  ],
+  "65": [
+    "Surf Spot",
+    "Surf Store",
+    "Surfing"
+  ],
+  "101": [
+    "Swimming",
+    "Swimming Club",
+    "Swimming Pool",
+    "Swimming Pool Maintenance and Service"
+  ],
+  "102": [
+    "Swimming Pool Supply Store",
+    "Swimwear Store"
+  ],
+  "156": [
+    "Takoyaki Place",
+    "Wagashi Place"
+  ],
+  "3": [
+    "Taxi",
+    "Taxi Stand"
+  ],
+  "79": [
+    "Tech Startup",
+    "Technology Business"
+  ],
+  "40": [
+    "Telecommunication Service",
+    "Transmissions Shop"
+  ],
+  "144": [
+    "Tennis Club",
+    "Tennis Stadium"
+  ],
+  "30": [
+    "Toll Booth",
+    "Toll Plaza"
+  ],
+  "78": [
+    "Tour Provider",
+    "Tourist Information and Service"
+  ],
+  "228": [
+    "Ukrainian Restaurant",
+    "West-Ukrainian Restaurant"
+  ],
+  "53": [
+    "Video Games Store",
+    "Video Store"
+  ],
+  "138": [
+    "Warehouse",
+    "Warehouse or Wholesale Store"
+  ],
+  "70": [
+    "Zoo",
+    "Zoo Exhibit"
+  ],
+  "235": [
+    "AIDS Resource"
+  ],
+  "236": [
+    "ATM"
+  ],
+  "237": [
+    "Acai House"
+  ],
+  "238": [
+    "Accounting and Bookkeeping Service"
+  ],
+  "239": [
+    "Acehnese Restaurant"
+  ],
+  "240": [
+    "Acupuncture Clinic"
+  ],
+  "241": [
+    "Adult Store"
+  ],
+  "242": [
+    "African Restaurant"
+  ],
+  "243": [
+    "Airport Gate"
+  ],
+  "244": [
+    "Airport Lounge"
+  ],
+  "245": [
+    "Airport Ticket Counter"
+  ],
+  "246": [
+    "Amphitheater"
+  ],
+  "247": [
+    "Andhra Restaurant"
+  ],
+  "248": [
+    "Anhui Restaurant"
+  ],
+  "249": [
+    "Animal Shelter"
+  ],
+  "250": [
+    "Apartment or Condo"
+  ],
+  "251": [
+    "Apple Wine Pub"
+  ],
+  "252": [
+    "Appraiser"
+  ],
+  "253": [
+    "Aquarium"
+  ],
+  "254": [
+    "Arcade"
+  ],
+  "255": [
+    "Architecture Firm"
+  ],
+  "256": [
+    "Arepa Restaurant"
+  ],
+  "257": [
+    "Argentinian Restaurant"
+  ],
+  "258": [
+    "Art Restoration Service"
+  ],
+  "259": [
+    "Art School"
+  ],
+  "260": [
+    "Arts and Crafts Store"
+  ],
+  "261": [
+    "Arts and Entertainment"
+  ],
+  "262": [
+    "Ash and Haleem Place"
+  ],
+  "263": [
+    "Asian Restaurant"
+  ],
+  "264": [
+    "Attraction"
+  ],
+  "265": [
+    "Auction House"
+  ],
+  "266": [
+    "Audiovisual Service"
+  ],
+  "267": [
+    "Australian Restaurant"
+  ],
+  "268": [
+    "Automation and Control System"
+  ],
+  "269": [
+    "Automotive Service"
+  ],
+  "270": [
+    "Awadhi Restaurant"
+  ],
+  "271": [
+    "Baby Store"
+  ],
+  "272": [
+    "Bagel Shop"
+  ],
+  "273": [
+    "Baiano Restaurant"
+  ],
+  "274": [
+    "Bakery"
+  ],
+  "275": [
+    "Balinese Restaurant"
+  ],
+  "276": [
+    "Baseball Store"
+  ],
+  "277": [
+    "Basilicata Restaurant"
+  ],
+  "278": [
+    "Batik Store"
+  ],
+  "279": [
+    "Batting Cages"
+  ],
+  "280": [
+    "Bay"
+  ],
+  "281": [
+    "Beach Bar"
+  ],
+  "282": [
+    "Belarusian Restaurant"
+  ],
+  "283": [
+    "Big Box Store"
+  ],
+  "284": [
+    "Bike Trail"
+  ],
+  "285": [
+    "Blini House"
+  ],
+  "286": [
+    "Blood Bank"
+  ],
+  "287": [
+    "Board Store"
+  ],
+  "288": [
+    "Boarding House"
+  ],
+  "289": [
+    "Boat Launch"
+  ],
+  "290": [
+    "Body Piercing Shop"
+  ],
+  "291": [
+    "Border Crossing"
+  ],
+  "292": [
+    "Borek Place"
+  ],
+  "293": [
+    "Bossam/Jokbal Restaurant"
+  ],
+  "294": [
+    "Bougatsa Shop"
+  ],
+  "295": [
+    "Boxing Gym"
+  ],
+  "296": [
+    "Brasserie"
+  ],
+  "297": [
+    "Breton Restaurant"
+  ],
+  "298": [
+    "Brewery"
+  ],
+  "299": [
+    "Bridal Store"
+  ],
+  "300": [
+    "Bridge"
+  ],
+  "301": [
+    "Bubble Tea Shop"
+  ],
+  "302": [
+    "Buffet"
+  ],
+  "303": [
+    "Building and Land Surveyor"
+  ],
+  "304": [
+    "Burgundian Restaurant"
+  ],
+  "305": [
+    "Burrito Restaurant"
+  ],
+  "306": [
+    "Business Center"
+  ],
+  "307": [
+    "Butcher"
+  ],
+  "308": [
+    "Cable Car"
+  ],
+  "309": [
+    "Cafe, Coffee, and Tea House"
+  ],
+  "310": [
+    "Café"
+  ],
+  "311": [
+    "Cajun and Creole Restaurant"
+  ],
+  "312": [
+    "Calabria Restaurant"
+  ],
+  "313": [
+    "Campanian Restaurant"
+  ],
+  "314": [
+    "Candy Store"
+  ],
+  "315": [
+    "Capitol Building"
+  ],
+  "316": [
+    "Car Parts and Accessories"
+  ],
+  "317": [
+    "Car Wash and Detail"
+  ],
+  "318": [
+    "Cardiologist"
+  ],
+  "319": [
+    "Career Counselor"
+  ],
+  "320": [
+    "Caribbean Restaurant"
+  ],
+  "321": [
+    "Carpenter"
+  ],
+  "322": [
+    "Carpet Store"
+  ],
+  "323": [
+    "Carpet and Flooring Contractor"
+  ],
+  "324": [
+    "Caucasian Restaurant"
+  ],
+  "325": [
+    "Cave"
+  ],
+  "326": [
+    "Ch'ti Restaurant"
+  ],
+  "327": [
+    "Cha Chaan Teng"
+  ],
+  "328": [
+    "Chaat Place"
+  ],
+  "329": [
+    "Charity"
+  ],
+  "330": [
+    "Charter Bus"
+  ],
+  "331": [
+    "Check Cashing Service"
+  ],
+  "332": [
+    "Cheese Store"
+  ],
+  "333": [
+    "Chemicals and Gasses Manufacturer"
+  ],
+  "334": [
+    "Chettinad Restaurant"
+  ],
+  "335": [
+    "Child Care Service"
+  ],
+  "336": [
+    "Children's Hospital"
+  ],
+  "337": [
+    "Chimney Sweep"
+  ],
+  "338": [
+    "Chinese Aristocrat Restaurant"
+  ],
+  "339": [
+    "Chinese Breakfast Restaurant"
+  ],
+  "340": [
+    "Chiropractor"
+  ],
+  "341": [
+    "Christmas Market"
+  ],
+  "342": [
+    "Churrascaria"
+  ],
+  "343": [
+    "Cidery"
+  ],
+  "344": [
+    "Climbing Gym"
+  ],
+  "345": [
+    "Coffee Roaster"
+  ],
+  "346": [
+    "Collections Service"
+  ],
+  "347": [
+    "College Baseball Diamond"
+  ],
+  "348": [
+    "College Classroom"
+  ],
+  "349": [
+    "College Math Building"
+  ],
+  "350": [
+    "College Quad"
+  ],
+  "351": [
+    "College Theater"
+  ],
+  "352": [
+    "Comedy Club"
+  ],
+  "353": [
+    "Comfort Food Restaurant"
+  ],
+  "354": [
+    "Comic Book Store"
+  ],
+  "355": [
+    "Community Center"
+  ],
+  "356": [
+    "Computer Training School"
+  ],
+  "357": [
+    "Concert Hall"
+  ],
+  "358": [
+    "Construction Supplies Store"
+  ],
+  "359": [
+    "Corporate Amenity"
+  ],
+  "360": [
+    "Country"
+  ],
+  "361": [
+    "County"
+  ],
+  "362": [
+    "Coworking Space"
+  ],
+  "363": [
+    "Creative Service"
+  ],
+  "364": [
+    "Credit Union"
+  ],
+  "365": [
+    "Cruise"
+  ],
+  "366": [
+    "Cuban Restaurant"
+  ],
+  "367": [
+    "Culinary School"
+  ],
+  "368": [
+    "Cultural Center"
+  ],
+  "369": [
+    "Curling Ice"
+  ],
+  "370": [
+    "Currency Exchange"
+  ],
+  "371": [
+    "Cycle Studio"
+  ],
+  "372": [
+    "Dairy Store"
+  ],
+  "373": [
+    "Daycare"
+  ],
+  "374": [
+    "Deck and Patio Contractor"
+  ],
+  "375": [
+    "Dhaba"
+  ],
+  "376": [
+    "Dim Sum Restaurant"
+  ],
+  "377": [
+    "Direct Mail and Email Marketing Service"
+  ],
+  "378": [
+    "Disabled Persons Service"
+  ],
+  "379": [
+    "Distillery"
+  ],
+  "380": [
+    "Distribution Center"
+  ],
+  "381": [
+    "Dog Park"
+  ],
+  "382": [
+    "Donburi Restaurant"
+  ],
+  "383": [
+    "Doner Restaurant"
+  ],
+  "384": [
+    "Dongbei Restaurant"
+  ],
+  "385": [
+    "Donut Shop"
+  ],
+  "386": [
+    "Dosa Place"
+  ],
+  "387": [
+    "Drive-in Theater"
+  ],
+  "388": [
+    "Driving School"
+  ],
+  "389": [
+    "Dump"
+  ],
+  "390": [
+    "Dumpling Restaurant"
+  ],
+  "391": [
+    "Dutch Restaurant"
+  ],
+  "392": [
+    "Duty-free Store"
+  ],
+  "393": [
+    "Ear, Nose and Throat Doctor"
+  ],
+  "394": [
+    "Egyptian Restaurant"
+  ],
+  "395": [
+    "Electric Vehicle Charging Station"
+  ],
+  "396": [
+    "Embassy or Consulate"
+  ],
+  "397": [
+    "Emilia Restaurant"
+  ],
+  "398": [
+    "Empanada Restaurant"
+  ],
+  "399": [
+    "Employment Agency"
+  ],
+  "400": [
+    "English Restaurant"
+  ],
+  "401": [
+    "Environmental Organization"
+  ],
+  "402": [
+    "Equestrian Facility"
+  ],
+  "403": [
+    "Erotic Museum"
+  ],
+  "404": [
+    "Escape Room"
+  ],
+  "405": [
+    "Ethiopian Restaurant"
+  ],
+  "406": [
+    "Falafel Restaurant"
+  ],
+  "407": [
+    "Fence Contractor"
+  ],
+  "408": [
+    "Field"
+  ],
+  "409": [
+    "Filipino Restaurant"
+  ],
+  "410": [
+    "Film Studio"
+  ],
+  "411": [
+    "Financial Planner"
+  ],
+  "412": [
+    "Financial Service"
+  ],
+  "413": [
+    "Fire Station"
+  ],
+  "414": [
+    "Fireworks Store"
+  ],
+  "415": [
+    "Fish and Chips Shop"
+  ],
+  "416": [
+    "Flea Market"
+  ],
+  "417": [
+    "Flight School"
+  ],
+  "418": [
+    "Floating Market"
+  ],
+  "419": [
+    "Flower Store"
+  ],
+  "420": [
+    "Food Truck"
+  ],
+  "421": [
+    "Football Club"
+  ],
+  "422": [
+    "Framing Store"
+  ],
+  "423": [
+    "Friuli Restaurant"
+  ],
+  "424": [
+    "Fruit and Vegetable Store"
+  ],
+  "425": [
+    "Fuel Station"
+  ],
+  "426": [
+    "Fujian Restaurant"
+  ],
+  "427": [
+    "Gastroenterologist"
+  ],
+  "428": [
+    "Gay Bar"
+  ],
+  "429": [
+    "Gelato Shop"
+  ],
+  "430": [
+    "Geological Service"
+  ],
+  "431": [
+    "Geriatric Doctor"
+  ],
+  "432": [
+    "Gilaki Restaurant"
+  ],
+  "433": [
+    "Gluten-Free Restaurant"
+  ],
+  "434": [
+    "Goan Restaurant"
+  ],
+  "435": [
+    "Goiano Restaurant"
+  ],
+  "436": [
+    "Golf Driving Range"
+  ],
+  "437": [
+    "Government Building"
+  ],
+  "438": [
+    "Guizhou Restaurant"
+  ],
+  "439": [
+    "Gujarati Restaurant"
+  ],
+  "440": [
+    "Gukbap Restaurant"
+  ],
+  "441": [
+    "Hainan Restaurant"
+  ],
+  "442": [
+    "Hakka Restaurant"
+  ],
+  "443": [
+    "Halal Restaurant"
+  ],
+  "444": [
+    "Hawaiian Restaurant"
+  ],
+  "445": [
+    "Health and Beauty Service"
+  ],
+  "446": [
+    "Health and Medicine"
+  ],
+  "447": [
+    "Heating, Ventilating and Air Conditioning Contractor"
+  ],
+  "448": [
+    "Heliport"
+  ],
+  "449": [
+    "Herbs and Spices Store"
+  ],
+  "450": [
+    "Hiking Trail"
+  ],
+  "451": [
+    "Historic and Protected Site"
+  ],
+  "452": [
+    "Hobby Store"
+  ],
+  "453": [
+    "Home Inspection"
+  ],
+  "454": [
+    "Homeless Shelter"
+  ],
+  "455": [
+    "Honduran Restaurant"
+  ],
+  "456": [
+    "Hong Kong Restaurant"
+  ],
+  "457": [
+    "Hospice"
+  ],
+  "458": [
+    "Hot Air Balloon Tour Agency"
+  ],
+  "459": [
+    "Hot Dog Joint"
+  ],
+  "460": [
+    "Hot Spring"
+  ],
+  "461": [
+    "Hotel Bar"
+  ],
+  "462": [
+    "Huaiyang Restaurant"
+  ],
+  "463": [
+    "Hubei Restaurant"
+  ],
+  "464": [
+    "Human Resources Agency"
+  ],
+  "465": [
+    "IT Service"
+  ],
+  "466": [
+    "Ice Bar"
+  ],
+  "467": [
+    "Ice Cream Parlor"
+  ],
+  "468": [
+    "Immigration Attorney"
+  ],
+  "469": [
+    "Imperial Restaurant"
+  ],
+  "470": [
+    "Imported Food Store"
+  ],
+  "471": [
+    "Indian Chinese Restaurant"
+  ],
+  "472": [
+    "Indian Sweet Shop"
+  ],
+  "473": [
+    "Indonesian Meatball Restaurant"
+  ],
+  "474": [
+    "Indoor Play Area"
+  ],
+  "475": [
+    "Industrial Estate"
+  ],
+  "476": [
+    "Insurance Agency"
+  ],
+  "477": [
+    "Internet Cafe"
+  ],
+  "478": [
+    "Intersection"
+  ],
+  "479": [
+    "Island"
+  ],
+  "480": [
+    "Jain Restaurant"
+  ],
+  "481": [
+    "Japanese Curry Restaurant"
+  ],
+  "482": [
+    "Jazz and Blues Venue"
+  ],
+  "483": [
+    "Jewelry Store"
+  ],
+  "484": [
+    "Juice Bar"
+  ],
+  "485": [
+    "Karnataka Restaurant"
+  ],
+  "486": [
+    "Kebab Restaurant"
+  ],
+  "487": [
+    "Kerala Restaurant"
+  ],
+  "488": [
+    "Kingdom Hall"
+  ],
+  "489": [
+    "Kitchen Remodeler"
+  ],
+  "490": [
+    "Knitting Store"
+  ],
+  "491": [
+    "Kofte Place"
+  ],
+  "492": [
+    "Korean BBQ Restaurant"
+  ],
+  "493": [
+    "Korean Restaurant"
+  ],
+  "494": [
+    "Kurdish Restaurant"
+  ],
+  "495": [
+    "LGBTQ Organization"
+  ],
+  "496": [
+    "Labor Union"
+  ],
+  "497": [
+    "Labour Canteen"
+  ],
+  "498": [
+    "Landscaper and Gardener"
+  ],
+  "499": [
+    "Language School"
+  ],
+  "500": [
+    "Laser Tag Center"
+  ],
+  "501": [
+    "Lighthouse"
+  ],
+  "502": [
+    "Limo Service"
+  ],
+  "503": [
+    "Line"
+  ],
+  "504": [
+    "Locksmith"
+  ],
+  "505": [
+    "Logging Service"
+  ],
+  "506": [
+    "Lombard Restaurant"
+  ],
+  "507": [
+    "Lounge"
+  ],
+  "508": [
+    "Lyonese Bouchon"
+  ],
+  "509": [
+    "Mac and Cheese Joint"
+  ],
+  "510": [
+    "Macanese Restaurant"
+  ],
+  "511": [
+    "Magirio"
+  ],
+  "512": [
+    "Maharashtrian Restaurant"
+  ],
+  "513": [
+    "Malay Restaurant"
+  ],
+  "514": [
+    "Malga"
+  ],
+  "515": [
+    "Mamak Restaurant"
+  ],
+  "516": [
+    "Manchu Restaurant"
+  ],
+  "517": [
+    "Manti Place"
+  ],
+  "518": [
+    "Marche Restaurant"
+  ],
+  "519": [
+    "Marijuana Dispensary"
+  ],
+  "520": [
+    "Marine Terminal"
+  ],
+  "521": [
+    "Martial Arts Dojo"
+  ],
+  "522": [
+    "Massage Clinic"
+  ],
+  "523": [
+    "Maternity Clinic"
+  ],
+  "524": [
+    "Mattress Store"
+  ],
+  "525": [
+    "Mauritian Restaurant"
+  ],
+  "526": [
+    "Medical Lab"
+  ],
+  "527": [
+    "Medical School"
+  ],
+  "528": [
+    "Medical Supply Store"
+  ],
+  "529": [
+    "Mediterranean Restaurant"
+  ],
+  "530": [
+    "Men's Store"
+  ],
+  "531": [
+    "Meyhane"
+  ],
+  "532": [
+    "Meze Restaurant"
+  ],
+  "533": [
+    "Middle Eastern Restaurant"
+  ],
+  "534": [
+    "Mineiro Restaurant"
+  ],
+  "535": [
+    "Mobility Store"
+  ],
+  "536": [
+    "Molecular Gastronomy Restaurant"
+  ],
+  "537": [
+    "Monjayaki Restaurant"
+  ],
+  "538": [
+    "Moped Dealership"
+  ],
+  "539": [
+    "Moroccan Restaurant"
+  ],
+  "540": [
+    "Mosque"
+  ],
+  "541": [
+    "Mover"
+  ],
+  "542": [
+    "Moving Target"
+  ],
+  "543": [
+    "Mughlai Restaurant"
+  ],
+  "544": [
+    "Multicuisine Indian Restaurant"
+  ],
+  "545": [
+    "Multiplex"
+  ],
+  "546": [
+    "Music School"
+  ],
+  "547": [
+    "NaN"
+  ],
+  "548": [
+    "Nabe Restaurant"
+  ],
+  "549": [
+    "Nature Preserve"
+  ],
+  "550": [
+    "Neighborhood"
+  ],
+  "551": [
+    "Neurologist"
+  ],
+  "552": [
+    "Night Market"
+  ],
+  "553": [
+    "Noodle Restaurant"
+  ],
+  "554": [
+    "Norman Restaurant"
+  ],
+  "555": [
+    "Notary"
+  ],
+  "556": [
+    "Nurse"
+  ],
+  "557": [
+    "Nursery School"
+  ],
+  "558": [
+    "Nursing Home"
+  ],
+  "559": [
+    "Nutritionist"
+  ],
+  "560": [
+    "Obstetrician Gynecologist (Ob-gyn)"
+  ],
+  "561": [
+    "Office Supply Store"
+  ],
+  "562": [
+    "Oil Change Service"
+  ],
+  "563": [
+    "Okonomiyaki Restaurant"
+  ],
+  "564": [
+    "Oncologist"
+  ],
+  "565": [
+    "Opera House"
+  ],
+  "566": [
+    "Organic Grocery"
+  ],
+  "567": [
+    "Other Healthcare Professional"
+  ],
+  "568": [
+    "Outdoor Supply Store"
+  ],
+  "569": [
+    "Pachinko Parlor"
+  ],
+  "570": [
+    "Padangnese Restaurant"
+  ],
+  "571": [
+    "Paella Restaurant"
+  ],
+  "572": [
+    "Paintball Field"
+  ],
+  "573": [
+    "Painter"
+  ],
+  "574": [
+    "Palatine Restaurant"
+  ],
+  "575": [
+    "Paper Supplier"
+  ],
+  "576": [
+    "Parade"
+  ],
+  "577": [
+    "Parking"
+  ],
+  "578": [
+    "Party Center"
+  ],
+  "579": [
+    "Party Supply Store"
+  ],
+  "580": [
+    "Pawn Shop"
+  ],
+  "581": [
+    "Pediatrician"
+  ],
+  "582": [
+    "Peking Duck Restaurant"
+  ],
+  "583": [
+    "Performing Arts Venue"
+  ],
+  "584": [
+    "Personal Trainer"
+  ],
+  "585": [
+    "Pest Control Service"
+  ],
+  "586": [
+    "Petroleum Supplier"
+  ],
+  "587": [
+    "Piano Bar"
+  ],
+  "588": [
+    "Pie Shop"
+  ],
+  "589": [
+    "Piedmontese Restaurant"
+  ],
+  "590": [
+    "Pilates Studio"
+  ],
+  "591": [
+    "Pilavcı"
+  ],
+  "592": [
+    "Plastic Surgeon"
+  ],
+  "593": [
+    "Platform"
+  ],
+  "594": [
+    "Plumber"
+  ],
+  "595": [
+    "Poke Restaurant"
+  ],
+  "596": [
+    "Police Station"
+  ],
+  "597": [
+    "Polling Place"
+  ],
+  "598": [
+    "Pop-Up Store"
+  ],
+  "599": [
+    "Port"
+  ],
+  "600": [
+    "Post Office"
+  ],
+  "601": [
+    "Print Store"
+  ],
+  "602": [
+    "Prison"
+  ],
+  "603": [
+    "Private Airport"
+  ],
+  "604": [
+    "Probation Office"
+  ],
+  "605": [
+    "Psychic and Astrologer"
+  ],
+  "606": [
+    "Public Relations Firm"
+  ],
+  "607": [
+    "Publisher"
+  ],
+  "608": [
+    "Punjabi Restaurant"
+  ],
+  "609": [
+    "RV and Motorhome Dealership"
+  ],
+  "610": [
+    "Radiologist"
+  ],
+  "611": [
+    "Ramen Restaurant"
+  ],
+  "612": [
+    "Record Store"
+  ],
+  "613": [
+    "Recording Studio"
+  ],
+  "614": [
+    "Refrigeration and Ice Supplier"
+  ],
+  "615": [
+    "Residential Building"
+  ],
+  "616": [
+    "Resort"
+  ],
+  "617": [
+    "Respiratory Doctor"
+  ],
+  "618": [
+    "Rest Area"
+  ],
+  "619": [
+    "Retirement Home"
+  ],
+  "620": [
+    "Road"
+  ],
+  "621": [
+    "Rock Climbing Spot"
+  ],
+  "622": [
+    "Rock Club"
+  ],
+  "623": [
+    "Romagna Restaurant"
+  ],
+  "624": [
+    "Romanian Restaurant"
+  ],
+  "625": [
+    "Roofer"
+  ],
+  "626": [
+    "Running Club"
+  ],
+  "627": [
+    "Sailing Club"
+  ],
+  "628": [
+    "Salad Restaurant"
+  ],
+  "629": [
+    "Salsa Club"
+  ],
+  "630": [
+    "Salvage Yard"
+  ],
+  "631": [
+    "Samba School"
+  ],
+  "632": [
+    "Samgyetang Restaurant"
+  ],
+  "633": [
+    "Sauna"
+  ],
+  "634": [
+    "Sausage Store"
+  ],
+  "635": [
+    "Savoyard Restaurant"
+  ],
+  "636": [
+    "Scandinavian Restaurant"
+  ],
+  "637": [
+    "Scenic Lookout"
+  ],
+  "638": [
+    "Schnitzel Restaurant"
+  ],
+  "639": [
+    "Science Museum"
+  ],
+  "640": [
+    "Scuba Diving Instructor"
+  ],
+  "641": [
+    "Shanxi Restaurant"
+  ],
+  "642": [
+    "Shawarma Restaurant"
+  ],
+  "643": [
+    "Singaporean Restaurant"
+  ],
+  "644": [
+    "Ski Chairlift"
+  ],
+  "645": [
+    "Skin Care Clinic"
+  ],
+  "646": [
+    "Smog Check Shop"
+  ],
+  "647": [
+    "Snack Place"
+  ],
+  "648": [
+    "Snow Sports"
+  ],
+  "649": [
+    "Soba Restaurant"
+  ],
+  "650": [
+    "Soccer Club"
+  ],
+  "651": [
+    "Social Club"
+  ],
+  "652": [
+    "Soup Spot"
+  ],
+  "653": [
+    "South Tyrolean Restaurant"
+  ],
+  "654": [
+    "Souvlaki Shop"
+  ],
+  "655": [
+    "Spa"
+  ],
+  "656": [
+    "Speakeasy"
+  ],
+  "657": [
+    "Sports Bar"
+  ],
+  "658": [
+    "Sports Club"
+  ],
+  "659": [
+    "Sports and Recreation"
+  ],
+  "660": [
+    "Sri Lankan Restaurant"
+  ],
+  "661": [
+    "Stable"
+  ],
+  "662": [
+    "Stationery Store"
+  ],
+  "663": [
+    "Storage Facility"
+  ],
+  "664": [
+    "Street Art"
+  ],
+  "665": [
+    "Strip Club"
+  ],
+  "666": [
+    "Structure"
+  ],
+  "667": [
+    "Sundanese Restaurant"
+  ],
+  "668": [
+    "Supplement Store"
+  ],
+  "669": [
+    "Sushi Restaurant"
+  ],
+  "670": [
+    "Swabian Restaurant"
+  ],
+  "671": [
+    "Swim School"
+  ],
+  "672": [
+    "Swiss Restaurant"
+  ],
+  "673": [
+    "Synagogue"
+  ],
+  "674": [
+    "Tabbakhi"
+  ],
+  "675": [
+    "Taco Restaurant"
+  ],
+  "676": [
+    "Tailor"
+  ],
+  "677": [
+    "Taiwanese Restaurant"
+  ],
+  "678": [
+    "Tanning Salon"
+  ],
+  "679": [
+    "Tantuni Restaurant"
+  ],
+  "680": [
+    "Tapas Restaurant"
+  ],
+  "681": [
+    "Tapiocaria"
+  ],
+  "682": [
+    "Tattoo Parlor"
+  ],
+  "683": [
+    "Taverna"
+  ],
+  "684": [
+    "Tea Room"
+  ],
+  "685": [
+    "Tempura Restaurant"
+  ],
+  "686": [
+    "Tennis Store"
+  ],
+  "687": [
+    "Tex-Mex Restaurant"
+  ],
+  "688": [
+    "Textiles Store"
+  ],
+  "689": [
+    "Thai Restaurant"
+  ],
+  "690": [
+    "Theme Restaurant"
+  ],
+  "691": [
+    "Ticket Seller"
+  ],
+  "692": [
+    "Tire Repair Shop"
+  ],
+  "693": [
+    "Tonkatsu Restaurant"
+  ],
+  "694": [
+    "Towing Service"
+  ],
+  "695": [
+    "Toy Store"
+  ],
+  "696": [
+    "Track Stadium"
+  ],
+  "697": [
+    "Train"
+  ],
+  "698": [
+    "Translation Service"
+  ],
+  "699": [
+    "Transport Hub"
+  ],
+  "700": [
+    "Travel Lounge"
+  ],
+  "701": [
+    "Trentino Restaurant"
+  ],
+  "702": [
+    "Truck Stop"
+  ],
+  "703": [
+    "Tsipouro Restaurant"
+  ],
+  "704": [
+    "Tunnel"
+  ],
+  "705": [
+    "Tutoring Service"
+  ],
+  "706": [
+    "Udon Restaurant"
+  ],
+  "707": [
+    "Umbrian Restaurant"
+  ],
+  "708": [
+    "Upholstery Service"
+  ],
+  "709": [
+    "Urgent Care Center"
+  ],
+  "710": [
+    "Urologist"
+  ],
+  "711": [
+    "Vape Store"
+  ],
+  "712": [
+    "Vegan and Vegetarian Restaurant"
+  ],
+  "713": [
+    "Vehicle Inspection Station"
+  ],
+  "714": [
+    "Veneto Restaurant"
+  ],
+  "715": [
+    "Veterans' Organization"
+  ],
+  "716": [
+    "Vietnamese Restaurant"
+  ],
+  "717": [
+    "Village"
+  ],
+  "718": [
+    "Vineyard"
+  ],
+  "719": [
+    "Volcano"
+  ],
+  "720": [
+    "Volleyball Court"
+  ],
+  "721": [
+    "Watch Store"
+  ],
+  "722": [
+    "Water Sports"
+  ],
+  "723": [
+    "Water Treatment Service"
+  ],
+  "724": [
+    "Website Designer"
+  ],
+  "725": [
+    "Wedding Hall"
+  ],
+  "726": [
+    "Weight Loss Center"
+  ],
+  "727": [
+    "Welding Service"
+  ],
+  "728": [
+    "Windmill"
+  ],
+  "729": [
+    "Winery"
+  ],
+  "730": [
+    "Wings Joint"
+  ],
+  "731": [
+    "Women's Health Clinic"
+  ],
+  "732": [
+    "Women's Store"
+  ],
+  "733": [
+    "Writing, Copywriting and Technical Writing Service"
+  ],
+  "734": [
+    "Xinjiang Restaurant"
+  ],
+  "735": [
+    "Yoga Studio"
+  ],
+  "736": [
+    "Youth Organization"
+  ],
+  "737": [
+    "Yucatecan Restaurant"
+  ]
+}

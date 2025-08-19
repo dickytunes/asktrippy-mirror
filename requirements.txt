@@ -1,0 +1,21 @@
+# Backend dependencies
+fastapi==0.104.1
+uvicorn[standard]==0.24.0
+psycopg2-binary==2.9.9
+python-dotenv==1.0.0
+sentence-transformers==2.2.2
+pydantic==2.5.0
+
+# Frontend dependencies
+streamlit==1.28.1
+folium==0.14.0
+
+# Additional dependencies
+numpy>=2.0.0
+pandas>=2.1.0
+requests==2.31.0
+beautifulsoup4>=4.12.0
+
+# Crawler dependencies (critical for MVP)
+trafilatura>=7.0.0
+urllib3>=2.0.0

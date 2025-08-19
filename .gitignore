@@ -1,0 +1,23 @@
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.zip
+
+
+# Secrets
+.env
+.env.*
+**/.env
+**/.env.*
+# Secrets
+.env
+.env.*
+**/.env
+**/.env.*
+
+# Secrets
+.env
+.env.*
+**/.env
+**/.env.*

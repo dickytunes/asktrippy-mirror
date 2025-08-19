@@ -1,0 +1,24 @@
+FROM postgres:15
+
+# Install system dependencies
+RUN apt-get update && apt-get install -y \
+    build-essential \
+    git \
+    postgresql-server-dev-15 \
+    postgresql-15-postgis-3 \
+    postgresql-15-postgis-3-scripts \
+    && rm -rf /var/lib/apt/lists/*
+
+# Clone and build pgvector
+RUN cd /tmp && \
+    git clone --branch v0.5.1 https://github.com/pgvector/pgvector.git && \
+    cd pgvector && \
+    make && \
+    make install
+
+# Clean up
+RUN rm -rf /tmp/pgvector
+
+# Copy initialization scripts
+COPY init-db.sh /docker-entrypoint-initdb.d/
+RUN chmod +x /docker-entrypoint-initdb.d/init-db.sh

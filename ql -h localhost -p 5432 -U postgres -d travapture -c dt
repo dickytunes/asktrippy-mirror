@@ -1,0 +1,7 @@
+                                List of roles
+   Role name    |                         Attributes                         
+----------------+------------------------------------------------------------
+ asktrippy_user | 
+ postgres       | Superuser, Create role, Create DB, Replication, Bypass RLS
+ voy8_app       | 
+
